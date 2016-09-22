@@ -1,13 +1,13 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 23
+    compileSdkVersion 17
     buildToolsVersion "24.0.2"
 
     defaultConfig {
         applicationId "com.example.mlang.h2o"
         minSdkVersion 15
-        targetSdkVersion 23
+        targetSdkVersion 17
         versionCode 1
         versionName "1.0"
     }
